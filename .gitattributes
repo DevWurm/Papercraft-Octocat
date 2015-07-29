@@ -1,4 +1,4 @@
 *.pdf filter=lfs diff=lfs merge=lfs -crlf
 *.png filter=lfs diff=lfs merge=lfs -crlf
-*.jpeg filter=lfs diff=lfs merge=lfs -crlf
+*.jpg filter=lfs diff=lfs merge=lfs -crlf
 *.xcf filter=lfs diff=lfs merge=lfs -crlf
